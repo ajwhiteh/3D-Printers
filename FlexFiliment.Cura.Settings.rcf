@@ -1,0 +1,10 @@
+[filament]
+name = FlexFiliment Cura Settings
+diameter = 1.75
+multiplierPercent = 100
+printingTemperature = 220
+enableCooling = True
+bedTemperature = 65
+fanSpeedMin = 100
+fanSpeedMax = 100
+minimalLayerTime = 5
